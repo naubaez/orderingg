@@ -1,8 +1,6 @@
 # Ordering
 
-grupo 2
-nahuel baez
-
+ESTO ES UNA PRUEBA DE NAHUE
 
 Aplicación utilizada en la cursada 2018 de Ingenieria de Software. UTN-FRLP
 
