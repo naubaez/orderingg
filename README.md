@@ -1,6 +1,12 @@
 # Ordering
 
-ESTO ES UNA PRUEBA DE NAHUE
+INTEGRANTES
+
+Andrade Carlos
+Frison Leonardo
+Baez Nahuel
+
+GRUPO numero 2
 
 Aplicación utilizada en la cursada 2018 de Ingenieria de Software. UTN-FRLP
 
