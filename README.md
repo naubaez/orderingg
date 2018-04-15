@@ -74,6 +74,3 @@ $env:FLASK_APP="orderingg.py"
 $env:FLASK_DEBUG="1"
 flask run
 ```
-
-grupo numero 2
-Nahuel Baez
