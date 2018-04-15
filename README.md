@@ -1,5 +1,9 @@
 # Ordering
 
+grupo 2
+nahuel baez
+
+
 Aplicación utilizada en la cursada 2018 de Ingenieria de Software. UTN-FRLP
 
 ## Dependencias
@@ -64,3 +68,5 @@ $env:FLASK_DEBUG="1"
 flask run
 ```
 
+grupo numero 2
+Nahuel Baez
